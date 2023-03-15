@@ -2,5 +2,9 @@
   {
     "package": "GEEmediate",
     "oncran": true
+  },
+  {
+    "package": "ICcalib",
+    "oncran": true
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/daniel258/geemediate
 	shallow = true
 	registered = true
+[submodule "ICcalib"]
+	path = ICcalib
+	url = https://github.com/daniel258/iccalib
+	shallow = true
+	registered = true
