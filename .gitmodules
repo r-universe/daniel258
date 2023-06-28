@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GEEmediate"]
 	path = GEEmediate
 	url = https://github.com/daniel258/geemediate
-	shallow = true
-	registered = true
 [submodule "ICcalib"]
 	path = ICcalib
 	url = https://github.com/daniel258/iccalib
-	shallow = true
-	registered = true
